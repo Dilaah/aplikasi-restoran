@@ -1,2 +1,2 @@
 # aplikasi-restoran
-tugas pemrograman visual membuat aplikasi dengan vb .net
+tugas pemrograman visual membuat aplikasi dengan visual basic
